@@ -680,7 +680,7 @@ if(e.getSource()==button22)
     @Override
     public void mouseReleased(MouseEvent e) 
     {
-        // ena sola ethu solla
+        // ena sola_ethu solla.
 
     }
 
